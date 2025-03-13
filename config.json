@@ -1,0 +1,36 @@
+{
+  "to_email": [ "XXX@rainier.net.cn", "XXX@qq.com", "XXX@qq.com" ],
+    "login": {
+        "user": "XXXX",
+        "password": "XXXX"
+    },
+    "experiments": [
+        {
+            "url": "https://www.ilab-x.com/details/page?id=XXXX&isView=true",
+            "name": "XXXXX项目"
+        },
+         {
+            "url": "https://www.ilab-x.com/details/page?id=XXXX&isView=true",
+            "name": "XXXXX项目"
+        },
+      {
+            "url": "https://www.ilab-x.com/details/page?id=XXXX&isView=true",
+            "name": "XXXXX项目"
+        },
+      {
+            "url": "https://www.ilab-x.com/details/page?id=XXXX&isView=true",
+            "name": "XXXXXXX教学"
+      }
+    ],
+    "experiment_actions": {
+        "12912": {
+            "action": "handle_insecure_connection"
+        },
+        "10726": {
+            "action": "handle_insecure_connection"
+        },
+        "1234": {
+            "action": "click_review_entry"
+        }
+    }
+}
